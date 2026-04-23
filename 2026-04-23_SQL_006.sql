@@ -5,4 +5,4 @@
 -- Find all records from TransactionHistory where Quantity is between 10 and 100.
 select *
 from TransactionHistory 
-where Quantity between 10 and 100
+where Quantity between 10 and 100;
