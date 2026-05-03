@@ -5,4 +5,4 @@
 --Display all records from WorkOrder ordered by OrderQty in descending order.
   Select *
   from WorkOrder
-  order by OrderQty desc 
+  order by OrderQty desc;
