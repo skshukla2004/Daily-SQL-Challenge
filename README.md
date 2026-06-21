@@ -10,7 +10,7 @@ This repository reflects my **consistency, discipline, and continuous improvemen
 ## 🗂 Structure
 Each day contains:
 - 📄 SQL Query File (.sql)
-- 🖼 Output Screenshot (.png)
+- 🖼 Output Screenshot (.png) 
 
 ---
 
