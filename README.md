@@ -15,7 +15,7 @@ Each day contains:
 ---
 
 ## 📅 Daily Progress
-
+ 
 ## Day 1 - 18 April 2026
 ### 🔹 SQL Query
 [Open SQL File](2026-04-18_SQL_001.sql)
